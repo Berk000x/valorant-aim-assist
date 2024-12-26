@@ -1,5 +1,0 @@
-target_color=purple
-color_sens=65
-lock_power=15
-scan_area_x=8
-scan_area_y=8
